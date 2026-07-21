@@ -449,25 +449,6 @@ Continue learning with more beginner-friendly tutorials from the **Chip.pk Knowl
 - **How to Get Started with ESP32 in 2026: Complete Beginner Guide**  
   https://www.chip.pk/blogs/chip-pk-knowledge-hub/how-to-get-started-with-esp32-in-2026-complete-beginner-guide
 
-# 📚 Further Reading & Resources
-
-Continue exploring this guide on your preferred platform.
-
-- **🌐 Chip.pk Knowledge Hub (Original Article)**  
-  *(Add after publishing)*
-
-- **📘 GitHub Repository**  
-  *(Current Repository)*
-
-- **🛠 Hackster.io**  
-  *(Add after publishing)*
-
-- **✍️ Medium**  
-  *(Add after publishing)*
-
-- **💻 DEV Community**  
-  *(Add after publishing)*
-
 # Conclusion
 
 Interfacing a Relay Module with an Arduino is one of the most valuable skills for anyone beginning their journey into electronics, embedded systems, robotics, and home automation. By learning how relay modules work, understanding their pinout, wiring them correctly, and writing simple Arduino code, you gain the ability to control real-world electrical devices safely using a microcontroller.
